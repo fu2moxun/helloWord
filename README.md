@@ -1,2 +1,2 @@
 # helloWord
-just a description
+just a rescription
